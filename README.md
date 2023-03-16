@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Open [https://joshuaramc.github.io/Simple-TodoList-in-React/]
+Open [https://joshuaramc.github.io/Simple-TodoList-in-React/](https://joshuaramc.github.io/Simple-TodoList-in-React/)
 
 ## Available Scripts
 
